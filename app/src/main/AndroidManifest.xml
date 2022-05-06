@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.nanasa">
+
+        <uses-permission android:name="android.permission.INTERNET" /> <!-- camara permission -->
+        <uses-permission android:name="android.permission.CAMERA" /> <!-- external storage permision -->
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+        <application
+            android:allowBackup="true"
+            android:icon="@mipmap/ic_launcher"
+            android:label="@string/app_name"
+            android:roundIcon="@mipmap/ic_launcher_round"
+            android:supportsRtl="true"
+            android:theme="@style/Theme.Nanasa">
+            <activity android:name=".addMarksForm" />
+            <activity android:name=".add_student_form" />
+            <activity android:name=".check_student_answer_view" />
+                <activity android:name=".anstudent_answer_view" />
+            <activity android:name=".Add_assignment_form_teacher" />
+            <activity android:name=".add_assingment_student" />
+            <activity android:name=".check_assignment" />
+            <activity android:name=".addMark" />
+            <activity android:name=".aboutus" />
+            <!-- crop image working -->
+                <meta-data
+                    android:name="preloaded_fonts"
+                    android:resource="@array/preloaded_fonts" />
+        </application>
+
+</manifest>

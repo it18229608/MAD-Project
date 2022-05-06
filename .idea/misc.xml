@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/add_button.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/add_cam.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/assignment_image.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/delete_icon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/eddit_btn.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/ic_action_profile.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/imore.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-anydpi/view_icon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-small/background1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/abouticon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/aboutus_icon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_btn_1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_btn_2.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_btn_3.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_btn_4.xml" value="0.2265" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_btn_5.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_stbtn_1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_stbtn_2.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_stbtn_3.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_stbtn_4.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/background_stbtn_5.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/backgroundcurcle.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/backgroundnav.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/backgroundupload.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/ibackicon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/ic_action_unn.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/ic_launcher_background.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/lock.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/menuicon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/more_vert.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/new_reg.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/profileicon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/registericon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/save.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/save_button_background.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/saveico.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/searchicon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/swearchbackgound1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/swearchbackgound2.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/table_row1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/table_row2.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/uploadicon.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/veiwassigmentbackgound.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/drawable/veiwassigmentbackgound1.xml" value="0.103" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/font/aclonica.xml" value="0.19074074074074074" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/font/bubblegum_sans.xml" value="0.19074074074074074" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_aboutus.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_assignment_form_teacher.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_assingment_student.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_mark.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_marks_form.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_student_foam.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_add_student_form.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_anstudent_answer_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_check_assignment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_check_student_answer_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_add_student_teacher.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_assingment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_marks.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_student_assingment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_teacher_pro.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_edit_teacher_record_book.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_login_page.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_main.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_make_assingment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_marks_report_fro_teacher.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_marks_summary.xml" value="0.264" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_my_assignment_log.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_my_note_student.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_preview_assingment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_preview_assingnmnet_student.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_pri_image.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_profile.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_register.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_student_about_us.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_student_home.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_student_profile.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_student_register_page.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_student_report_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_t_r_b_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_teacher_record_book.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_teacher_report.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_teachers_record_book_add.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_view_assignment_student_view.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_view_marks_student.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/activity_view_upload_assignment.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/backwerdmanu.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/custom_marks_details.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/custom_marks_studentview.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/fragment_student_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/fragment_teachers_login.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/main_login__nav_drower.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/main_login_toolbar.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/main_nav_drower.xml" value="0.1" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/main_student_nav_drower.xml" value="0.16" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/main_toolbar.xml" value="0.4" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_mkasg.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_mkasg_st1.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_mkasg_st2.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_mkasg_t2.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_teacher.xml" value="0.24547101449275363" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/row_trb.xml" value="0.4" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/layout/student_main_toolbar.xml" value="0.2" />
+        <entry key="..\:/SLIIT/2nd Year/2nd SEM/MAD/PROJECT/Nanasa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.103" />
+        <entry key="..\:/Users/ASUS/Desktop/Nanasa/app/src/main/res/font/aclonica.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/ASUS/Desktop/Nanasa/app/src/main/res/font/bubblegum_sans.xml" value="0.19537037037037036" />
+        <entry key="..\:/Users/ASUS/Desktop/Nanasa/app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/Desktop/Nanasa/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1055" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
